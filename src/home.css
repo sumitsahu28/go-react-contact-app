@@ -1,0 +1,15 @@
+.container {
+    padding: 16px;
+}
+
+.logoutbtn {
+    background-color: red;
+    color:white;
+    padding: 7px 10px;
+    margin: 4px 0;
+    /* border: none; */
+    cursor: pointer;
+    width: 10%;
+    border-width: 0.5px;
+    border-color: black;
+}
